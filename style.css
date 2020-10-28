@@ -1,6 +1,10 @@
-h1 {
+.header {
 color: red;
 font: sans-serif;
 font-variant: small-caps;
 font-size: 50px;
+}
+
+.hidden {
+display: none;
 }
